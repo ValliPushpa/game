@@ -1,0 +1,42 @@
+body{
+    background-image: url("bg.jpg"); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    max-width: 1000px;
+
+}
+#boy{
+    position: absolute;
+    z-index: -1;
+    top: 0%;
+    background-position: bottom left;
+
+}
+#ant{
+    position: absolute;
+    bottom: 80%; 
+    z-index: -1;
+}
+#cat{
+    position: absolute;
+    bottom:65%;
+    z-index: -1;
+}
+#dog{
+    position: absolute;
+    bottom:50%;
+    z-index: -1;
+
+}
+#spider{
+    position: absolute;
+    bottom: 40%; 
+    left: 0%;
+    z-index: -1;
+}
+#hen{
+    position: absolute;
+    bottom: 20%; 
+    z-index: -1;
+}
